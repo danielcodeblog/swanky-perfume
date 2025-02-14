@@ -38,14 +38,14 @@ body {
 .nav-links-right{
     display: flex;
     gap: 20px;
-    padding: 30px;
+    padding: 90px;
 }
 
 .nav-links-left a,
 .nav-links-right a{
     text-decoration: none;
     color: var(--heading-color);
-    font-size: 18px;
+    font-size: 19px;
     font-weight: bold;
 }
 
